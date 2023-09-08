@@ -41,4 +41,17 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 Feel free to reach out to us if you have any questions or need further assistance. Happy classifying! 🐍🔍
 
+
+![image](https://github.com/ashwin-chitra-mohan/Snake_Eyes/assets/144419708/bc41d8fd-c74c-41ea-9ae5-5edc87dfe204)
+
+![image](https://github.com/ashwin-chitra-mohan/Snake_Eyes/assets/144419708/f86fbae0-bd9b-4693-8476-53a6247a975c)
+
+![image](https://github.com/ashwin-chitra-mohan/Snake_Eyes/assets/144419708/d0b9ed54-38c8-47d3-bcdb-cfb70d3b9f7f)
+
+![image](https://github.com/ashwin-chitra-mohan/Snake_Eyes/assets/144419708/5e979b54-c2aa-4c98-9fb3-ba0d18380e94)
+
+
+
+
+
 ![snake_icon](https://github.com/ashwin-chitra-mohan/Snake_Eyes/assets/144419708/563163ea-0769-4753-918a-912efac6a96b)
