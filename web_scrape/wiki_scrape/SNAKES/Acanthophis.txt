@@ -1,0 +1,37 @@
+Acanthophis is a genus of elapid snakes. Commonly called death adders, they are native to Australia, New Guinea and nearby islands, and are among the most venomous snakes in the world. Despite their common name, they are not adders at all and belong to the Elapidae family (like cobras). The name of the genus derives from the Ancient Greek akanthos/ἄκανθος ('spine') and ophis/ὄφις ('snake'), referring to the spine on the death adder's tail.
+Eight species are listed by ITIS, though it remains unclear how many species this genus includes, with figures ranging from 4 to 15 species being quoted.
+
+Taxonomy
+French naturalist François Marie Daudin established the genus Acanthophis in 1803, with the common death adder (A. cerastinus) as its only species.Although the death adders resemble vipers of the family Viperidae, they are actually members of the family Elapidae, which includes cobras, mambas, and coral snakes.
+It remains unclear how many species are included in this genus. Traditionally, only A. antarcticus, A. praelongus and A. pyrrhus have been recognized. In 1985, Wells  & Wellington proposed four new species – A. armstrongi, A. hawkei, A. lancasteri, and A. schistos – but these were not widely adopted at the time. In 1998 five new species were described (A. barnetti, A. crotalusei, A. cummingi, A. wellsi and A. woolfi) and in 2002 an additional three were described (A. groenveldi, A. macgregori and A. yuwoni). These were received with scepticism, and only A. wellsi, where an extended description has been published, has been widely recognized. Further confusion exists over the death adders from Papua New Guinea and Indonesia. They have variously been placed in A. antarcticus or A. praelongus. In 2005 it was shown that neither is appropriate, and the New Guinea death adders fall into two main clades: The rather smooth-scaled A. laevis complex (including death adders from Seram), and the rough-scaled A. rugosus complex. The latter can be divided into two sub-clades; one, A. rugosus sensu stricto, from southern New Guinea, and a second, A. hawkei, from northern Queensland and the Northern Territory in Australia. It is likely some of these include more than one species, as populations included in e.g. A. laevis show extensive variation in both pattern and scalation.
+
+Species
+* Not including the nominate subspecies.TType species.
+
+Description
+Death adders are very viper-like in appearance, having a short, robust body, triangular shaped heads, small subocular scales, many small scales on the top of the head, and elevated supraocular scales. Dorsal scales may be smooth or keeled. Body patterning is generally crossbanding, and they have vertically elliptical pupils. Their fangs are also longer and more mobile than for most other elapids, although still far from the size seen in some of the true vipers. Despite their name, they are not related to adders, which are members of the family Viperidae, and their similar appearance is due to convergent evolution.
+They normally take 2–3 years to reach adult size. Females are generally slightly larger than the males. They can also be easily distinguished from other Australian snakes because of a small, worm like lure on the end of their tail, which is used to attract prey. Most have large bands around their bodies, though the colour itself is variable, depending on their locality. Colours are usually black, grey or red and yellow, but also include brown and greenish-grey.
+Death adders are ovoviviparous with the embryos developing in membranous sacs inside the female who will give birth to litters of 8 to 30 live neonates.
+
+Origin of name
+The name was originally "deaf adder". Psalm 58 says: They are as venomous as the poison of a serpent; even like the deaf adder that stoppeth her ears; Which refuseth to hear the voice of the charmer: charm he never so wisely. Early settlers of Australia also called them "deaf adders". How "deaf" became "death" is not recorded.
+Unlike other snakes that tend to flee from human disturbance, the death adder is inclined to hold its ground, leading to the notion that the death adder cannot hear. However, death adders, like other snakes, perceive ground vibrations.
+
+Hunting
+Unlike most snakes, death adders do not actively hunt, but rather lie in ambush and draw their prey to them. When hungry, death adders bury themselves among the substrate. This may be leaf litter, soil or sand, depending on their environment. The only part of themselves they expose are their head and their tail, both generally very well camouflaged. The end of the tail is used for caudal luring and when wiggled, it is easily mistaken for a grub or worm. When the snake's prey attempts to seize it, the death adder strikes. Although it has been claimed to have the quickest strike of any snake in the world, this topic has not been well enough studied to make reliable comparisons. They commonly feed on local geckos such as the Dubious dtella.
+
+Venom
+Death adders can inject on average 40–100 mg of highly toxic venom with a bite. The LD50 of the venom was reported as 0.4–0.5 mg/kg subcutaneous and it is completely neurotoxic, containing neither haemotoxins nor myotoxins, unlike the venoms of most venomous snakes.
+A bite from a death adder can cause paralysis which seems minor at first but can cause death from a complete respiratory shutdown in six hours. Symptoms of envenomation can be reversed through the use of death adder antivenom, or using anticholinesterases, which break the synaptic blockade by making acetylcholine more available to the parasympathetic nervous system, thus mitigating the effects of the venom.
+Before antivenom was introduced, it is reported that about 50% of death adder bites were fatal. A fatal bite is less likely now as the anti-venom is widely available and the progression of envenomation symptoms is slow.
+
+References
+Further reading
+Daudin FM (1803). Histoire Naturelle, Générale et Particulière des Reptiles; Ouvrage faisant suite aux Œuvres de Leclerc de Buffon, et partie du Cours complet d'Histoire naturelle rédigé par C.S. Sonnini, membre de plusieurs Sociétés savantes. Tome Cinquième [Volume 5]. Paris: F. Dufart. 365 pp. (Acantophis, new genus, pp. 287–288). (in French).
+
+External links
+ Media related to Acanthophis at Wikimedia Commons
+ Data related to Acanthophis at Wikispecies
+A severe case of stomatitis (canker or mouthrot) in a Death Adder (Acanthophis antarcticus) associated with a reovirus infection. Boydii (Autumn 2004):16-17. Treatment
+Husbandry and breeding of Death Adders
+WCH Clinical Toxinology

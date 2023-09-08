@@ -1,0 +1,37 @@
+Bungarus is a genus of venomous elapid snakes, the kraits ("krait" is pronounced , rhyming with "kite"), found in South and Southeast Asia. The genus Bungarus has 16 species.
+
+Distribution
+Kraits are found in tropical and subtropical South and Southeast Asia and  Indochina, ranging in the west from Iran, east through the Indian subcontinent (including Bangladesh, Nepal, Pakistan, & Sri Lanka) and into Southeast Asia (including the island of Borneo, Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Papua New Guinea, the Philippines, Thailand and Vietnam).
+
+Description
+Kraits usually range between 1.0 and 1.5 m (3 ft 3 in and 4 ft 11 in) in total length (including tail), although specimens as large as 2.0 m (6 ft 7 in) have been observed. The banded krait (B. fasciatus) may grow as large as 2.125 m (6 ft 11.7 in). Most species of kraits are covered in smooth, glossy scales arranged in bold, striped patterns of alternating black and light-colored areas. This may serve as aposematic colouration in its habitat of grassland and scrub jungle. The scales along the dorsal ridge of the back are hexagonal. The head is slender, and the eyes have round pupils. Kraits have pronounced dorsolateral flattening, which causes them to be triangular in cross section.
+
+Diet and behavior
+Kraits are ophiophagous, preying primarily upon other snakes (including venomous varieties) and are cannibalistic, feeding on other kraits. They also eat mice and small lizards.All kraits are nocturnal. They are more docile during the daylight; at night, they become very active, but are not very aggressive even when provoked. They are actually rather timid, and often hide their heads within their coiled bodies for protection. When in this posture, they sometimes whip their tails around as a type of distraction.
+
+Reproduction
+Kraits are oviparous. The female lays a clutch of 12 to 14 eggs in piles of leaf litter, and stays with them until they hatch.
+
+Venom
+Bungarus contains some species that are among the most venomous land snakes in the world, to mice, based on their LD50. They have a highly potent, neurotoxic venom, which can induce muscle paralysis. Clinically, their venom contains mostly presynaptic neurotoxins, which affect the ability of neuron endings to properly release a chemical communication mechanism to the next neuron. Following envenomation with bungarotoxins, transmitter release is initially blocked (leading to a brief paralysis), followed by a period of massive overexcitation (cramps, tremors, spasms), which finally tapers off to paralysis. 
+These phases of envenomation may or may not be experienced in all parts of the body; they may or may not be experienced simultaneously. The severity of the bite itself and the actual dosage of venom delivered plays a role in the intensity of symptoms. As kraits are mainly nocturnal, encounters with humans are rare during the daytime. Bites mainly occur after sunset, and are often (initially) painless; thus, a bite may go unnoticed if the victim is sleeping or otherwise does not see or notice the krait, further prolonging envenomation damage within the body. Still—whenever possible—medical treatment should be sought posthaste, as a bite from a krait is considered potentially life-threatening. All venomous snake bites must be taken seriously as an immediate medical emergency.
+Typically, victims will start to notice severe abdominal cramps accompanied by progressive muscular paralysis, and frequently starting with ptosis. As no local symptoms are usually seen, a patient should be carefully observed for tell-tale signs of paralysis (e.g. the onset of bilateral ptosis, diplopia, and dysphagia), and subsequently treated (as quickly as possible) with antivenom. Frequently, little or no pain occurs at the site of a krait bite, which can provide false reassurance to the victim. The major medical difficulty of envenomated patients is the lack of medical resources (especially intubation supplies and mechanical ventilators in rural hospitals) and potential for ineffectiveness by the antivenom.
+Upon arriving at a healthcare facility, support must be provided until the venom has metabolised and the victim can breathe unaided, especially if no species-specific antivenom is available. Given that the toxins alter acetylcholine transmission—which causes the paralysis—some patients have been successfully treated with cholinesterase inhibitors, such as physostigmine or neostigmine, but success is variable and may be species-dependent, as well. If death occurs, it typically takes place about 6-12 hours after the krait bite, but can be significantly delayed. The usual cause of death in that situation is respiratory failure—suffocation by complete paralysis of the diaphragm. Even if patients make it to a hospital, subsequently entering a permanent coma (and even brain death from hypoxia) may occur, given the potential for long transport times to get medical care, in some regions.
+Mortality rates caused by bites from the members of this genus vary by species; according to University of Adelaide Department of Toxicology, bites from the banded krait have a mortality rate of 1–10% in untreated humans, while that of the common krait is 70–80%. In common with those of all other venomous snakes, the death time and fatality rate resulting from bites of kraits depend on numerous factors, such as the venom yield and the health status of the victim.
+Polyvalent elapid antivenom is effective in neutralizing of the venoms of B. candidus and B. flaviceps, and rather effective for  B. fasciatus, and the monovalent B. fasciatus antivenom is also moderately effective.
+
+Species
+*) Not including the nominate subspecies (typical form).T) Type species
+
+See also
+Locked-in syndrome
+
+References
+Further reading
+Boulenger GA (1896). Catalogue of the Snakes in the British Museum (Natural History). Volume III., Containing the Colubridæ (Opisthoglyphæ and Proteroglyphæ) ... London: Trustees of the British Museum (Natural History). (Taylor and Francis, printers). xiv + 727 pp. + Plates I-XXV. (Genus Bungarus, pp. 365-366, Figure 26, three views of skull).
+Daudin FM (1803). Histoire Naturelle, Génerale et Particulière des Reptiles; Ouvrage faisant suite aux Œuvres de Leclerc de Buffon, et partie de Cours complete d'Histoire naturelle rédigé par C.S. Sonnini, membre de plusieurs Sociétés savantes. Tome cinquième [Volume 5]. Paris: F. Dufart. 365 pp. (Bungarus, new genus, p. 263). (in French).
+
+External links
+Genus Bungarus at The Reptile Database
+"Bungarus". Integrated Taxonomic Information System. Retrieved 6 May 2006.
+Detailed account of Joe Slowinski's death via krait bite Archived 2020-05-27 at the Wayback Machine
