@@ -10,6 +10,7 @@ Welcome to the Snake Classifier project! This application is designed to classif
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Developers](#developers)
 
 ## Getting Started
 
@@ -51,7 +52,10 @@ Feel free to reach out to us if you have any questions or need further assistanc
 ![image](https://github.com/ashwin-chitra-mohan/Snake_Eyes/assets/144419708/5e979b54-c2aa-4c98-9fb3-ba0d18380e94)
 
 
+### Developers
 
+Rashmitha S - rashmithas633@gmail.com
+Ashwin Mohan - ashwin.vikaasa@gmail.com
 
 
 ![snake_icon](https://github.com/ashwin-chitra-mohan/Snake_Eyes/assets/144419708/563163ea-0769-4753-918a-912efac6a96b)
